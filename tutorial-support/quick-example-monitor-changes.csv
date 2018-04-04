@@ -1,4 +1,4 @@
 Label,URL,Wait,Pluck
 Zapier blog,https://zapier.com/blog/,,h2.title:visible:first
 ThinkThin addiction,https://www.walmart.com/ip/Thinkthin-Bar-20-Grams-of-Protein-Chunky-Peanut-Butter-2-1-Oz-10-Ct/21091494,.prod-rightContainer:visible,.prod-rightContainer .Price-group
-Search Reddit,http://google.com/search?q=site:reddit.com \"wranggle automation\",,#search h3:visible:first
+Search Reddit,http://google.com/search?q=site:reddit.com ""wranggle automation"",,#search h3:visible:first
